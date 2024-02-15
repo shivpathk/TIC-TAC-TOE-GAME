@@ -23,8 +23,8 @@ body {
 .tic-tac-toe {
     width: fit-content;
     margin: auto;
-    margin-top: 7rem;
-    padding: 3rem 5rem;
+    margin-top: 5rem;
+    padding: 1rem 4rem;
     text-align: center;
     background-color: rgba(55, 55, 55, 0.436);
     border-radius: 4rem;
